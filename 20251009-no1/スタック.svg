@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="121.96715mm"
+   height="152.05002mm"
+   viewBox="0 0 121.96715 152.05002"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-41.218232,-54.466805)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292"
+       id="rect2"
+       width="108.34929"
+       height="17.673998"
+       x="41.879692"
+       y="109.88615" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292"
+       id="rect3"
+       width="117.18629"
+       height="13.831823"
+       x="45.337643"
+       y="129.86545" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292"
+       id="rect4"
+       width="109.11772"
+       height="15.368693"
+       x="44.569214"
+       y="145.23416" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:1.92109"
+       d="m 51.100905,192.10866 v -13.4476 h 47.835057 47.835058 v 13.4476 13.44761 H 98.935962 51.100905 Z"
+       id="path7" />
+    <path
+       style="fill:#ffd5d5;stroke:#000000;stroke-width:1.92109"
+       d="m 46.106079,153.30271 v -6.91591 h 53.790426 53.790425 v 6.91591 6.91592 H 99.896505 46.106079 Z"
+       id="path8" />
+    <path
+       style="fill:#000080;stroke:#000000;stroke-width:7.2608"
+       d="M 174.2592,516.96896 V 493.7344 h 218.55008 218.55008 v 23.23456 23.23456 H 392.80928 174.2592 Z"
+       id="path9"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:7.2608"
+       d="M 161.18976,448.71744 V 418.22208 H 363.04 564.89024 v 30.49536 30.49536 H 363.04 161.18976 Z"
+       id="path10"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1.92109"
+       d="m 50.212377,63.663176 1.890105,-8.041531 51.989438,12.219746 51.98943,12.219751 -1.89011,8.04153 -1.8901,8.04152 -51.98943,-12.21974 -51.989437,-12.219748 z"
+       id="path11" />
+    <path
+       style="fill:#0000ff;stroke:#000000;stroke-width:1.92109"
+       d="m 55.711513,169.43984 v -6.14747 h 52.829877 52.82989 v 6.14747 6.14748 H 108.54139 55.711513 Z"
+       id="path12" />
+  </g>
+</svg>

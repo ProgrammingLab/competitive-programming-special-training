@@ -1,0 +1,28 @@
+/* @theme custom */
+
+@import "default";
+
+section {
+    font-family: "UD デジタル 教科書体 NK";
+}
+
+h1 {
+    font-size: 4em;
+    color: black;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+strong {
+    color: red;
+}
+
+h2 strong {
+    color: red;
+}
+
+h3 strong {
+    color: red;
+}

@@ -1,0 +1,47 @@
+{
+    "ProgramStart": {
+        "prefix": "ProgramStart",
+        "body": [
+            "#define _GLIBCXX_DEBUG",
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "using ll = long long;",
+            "#define all(a) (a).begin(), (a).end()",
+            "using pos = pair<ll, ll>;",
+            "",
+            "int main(void)",
+            "{",
+            "\t$1",
+            "\treturn 0;",
+            "}"
+        ]
+    },
+    "fori": {
+        "prefix": "fori",
+        "body": [
+            "for (ll ${1:i} = 0; $1 < ${2:n}; $1++)"
+        ]
+    },
+    "VectorInput": {
+        "prefix": "VectorInput",
+        "body": [
+            "vector<${1:ll}> ${2:a}(${3:n});",
+            "for (ll i = 0; i < $3; i++)",
+            "    cin >> $2[i];",
+            ""
+        ]
+    },
+    // Place your snippets for cpp here. Each snippet is defined under a snippet name and has a prefix, body and 
+    // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+    // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+    // same ids are connected.
+    // Example:
+    // "Print to console": {
+    // 	"prefix": "log",
+    // 	"body": [
+    // 		"console.log('$1');",
+    // 		"$2"
+    // 	],
+    // 	"description": "Log output to console"
+    // }
+}
