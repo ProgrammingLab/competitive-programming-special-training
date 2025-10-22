@@ -1,0 +1,45 @@
+/* @theme custom2 */
+
+@import "default";
+
+section {
+    font-family: "UD デジタル 教科書体 NK";
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 3em;
+    color: black;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+strong {
+    color: red;
+}
+
+h2 strong {
+    color: red;
+}
+
+h3 strong {
+    color: red;
+}
+
+.fs4 {
+    font-size: 4em;
+}
+
+.fs3 {
+    font-size: 3em;
+}
+
+.fs2 {
+    font-size: 2em;
+}
+
+.col2 {
+    column-count: 2;
+}
